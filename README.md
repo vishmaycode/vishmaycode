@@ -1,8 +1,14 @@
-# Hi there! 👋 I'm Vishmay
+# Welcome to my GitHub profile! 
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in frontend, backend, and DevOps technologies. I enjoy building interactive web applications, optimizing performance, and working with scalable backend solutions.
+Hi there! I'm Vishmay a passionate full-stack developer with expertise in modern web technologies and DevOps. I specialize in creating responsive, user-friendly applications that solve real-world problems.
 
-## 🚀 Skills
+I have experience in software development, working with databases, scaling applications, and deploying to cloud platforms. along with DevOps to ensure smooth CI/CD pipelines and infrastructure management.
+
+When I'm not coding, you can find me exploring new technologies, traveling, or enjoying a good cup of coffee while reading tech blogs..
+
+Currently, I'm working as a Senior Software Developer.
+
+## Skills
 
 ### Frontend
 - ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
@@ -50,5 +56,5 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in front
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](http://in.linkedin.com/in/vishmay)
-[![Instagram](https://img.shields.io/badge/-LinkedIn-blue?logo=instagram&logoColor=white)](https://www.instagram.com/__vishmay__/)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=red)](https://www.instagram.com/__vishmay__/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
