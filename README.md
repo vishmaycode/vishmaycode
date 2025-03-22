@@ -9,8 +9,8 @@ When I'm not coding, you can find me exploring new technologies, traveling, or e
 Currently, I'm working as a Senior Software Developer.
 
 ## Projects
-- [![Sakshardham](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://sakshardham.org/)
-- [![Wordster](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://github.com/vishmaycode/wordster)
+- [![Sakshardham](https://img.shields.io/badge/-sakshardham-orange?logo=sakshardham&logoColor=white)](https://sakshardham.org/)
+- [![Wordster](https://img.shields.io/badge/-wordster-yellow?logo=wordster&logoColor=white)](https://github.com/vishmaycode/wordster)
 
 ## Skills
 
@@ -58,7 +58,7 @@ Currently, I'm working as a Senior Software Developer.
 - ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
 - ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white)
 
-## 📫 Connect with me
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](http://in.linkedin.com/in/vishmay)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=red)](https://www.instagram.com/__vishmay__/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
