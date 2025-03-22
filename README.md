@@ -8,6 +8,10 @@ When I'm not coding, you can find me exploring new technologies, traveling, or e
 
 Currently, I'm working as a Senior Software Developer.
 
+## Projects
+- [![Sakshardham](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://sakshardham.org/)
+- [![Wordster](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://github.com/vishmaycode/wordster)
+
 ## Skills
 
 ### Frontend
