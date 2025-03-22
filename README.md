@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Vishmay
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in frontend, backend, and DevOps technologies. I enjoy building interactive web applications, optimizing performance, and working with scalable backend solutions.
 
@@ -49,6 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in front
 - ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](http://in.linkedin.com/in/vishmay)
+[![Instagram](https://img.shields.io/badge/-LinkedIn-blue?logo=instagram&logoColor=white)](https://www.instagram.com/__vishmay__/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
