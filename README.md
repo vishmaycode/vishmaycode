@@ -15,9 +15,7 @@ Currently, I'm working as a Senior Software Developer.
 ## Skills
 
 ### Frontend
-- ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)
