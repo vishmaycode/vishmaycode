@@ -29,7 +29,7 @@ Currently, I'm working as a Senior Software Developer.
 ## Connect with me
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:vishmaycode@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](http://in.linkedin.com/in/vishmay)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishmay)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=red)](https://www.instagram.com/__vishmay__/)
 [![X](https://img.shields.io/badge/-X-blue?logo=x&logoColor=white)](https://x.com/VishmayK7)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/vishmay.karbotkar)
