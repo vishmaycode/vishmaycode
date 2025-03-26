@@ -27,6 +27,9 @@ Currently, I'm working as a Senior Software Developer.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)   ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white)   ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-1A1A1A?logo=davinciresolve&logoColor=white)   ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)   ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white)
 
 ## Connect with me
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:vishmaycode@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](http://in.linkedin.com/in/vishmay)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=red)](https://www.instagram.com/__vishmay__/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)]([https://your-portfolio.com](https://vishmayk.netlify.app/))
+[![X](https://img.shields.io/badge/-X-blue?logo=x&logoColor=white)](https://x.com/VishmayK7)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/vishmay.karbotkar)
