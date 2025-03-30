@@ -6,7 +6,7 @@ I have experience in software development, working with databases, scaling appli
 
 When I'm not coding, you can find me exploring new technologies, traveling, or enjoying a good cup of coffee while reading tech blogs..
 
-Currently, I'm working as a Senior Software Developer.
+Currently, I'm working as a Senior Software Developer in Goa - India.
 
 ## Projects
 - [![Sakshardham](https://img.shields.io/badge/-sakshardham-orange?logo=sakshardham&logoColor=white)](https://sakshardham.org/)
