@@ -8,8 +8,30 @@ When I'm not coding, you can find me exploring new technologies, traveling, or e
 
 Currently, I'm working as a Senior Software Developer in Goa - India.
 
-## Projects
+<h2 align="center">Connect with me</h2>h2>
+<div align="center">
+  <a href="mailto:vishmaycode@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://vishmayk.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishmay">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/__vishmay__/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/VishmayK7">
+    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.facebook.com/vishmay.karbotkar">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
+
+<h2 align="center">Projects</h2>
 <div align="center">
 
 <table>
@@ -37,8 +59,8 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
 
 </div>
 
-## Skills
 
+<h2 align="center">Skills</h2>
 <div align="center">
 
 <table>
@@ -106,26 +128,4 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
   </tr>
 </table>
 
-</div>
-
-## Connect with me
-<div align="center">
-  <a href="mailto:vishmaycode@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://vishmayk.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishmay">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/__vishmay__/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/VishmayK7">
-    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.facebook.com/vishmay.karbotkar">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
 </div>
