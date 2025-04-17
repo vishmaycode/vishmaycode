@@ -40,7 +40,7 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
       <h3>Sakshardham</h3>
       <br />
       <a href="https://sakshardham.org/">
-        <img src="https://img.shields.io/badge/View_Project-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+        <img src="https://img.shields.io/badge/Visit_site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
       </a>
       <br />
       <p>Official website of Sakshardham Foundation built with React, PHP and MySQL</p>
@@ -48,11 +48,14 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
     <td align="center" width="50%">
       <h3>Wordster</h3>
       <br />
+      <a href="https://wordster.netlify.app">
+        <img src="https://img.shields.io/badge/View_Project-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+      </a>
       <a href="https://github.com/vishmaycode/wordster">
-        <img src="https://img.shields.io/badge/View_Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <img src="https://img.shields.io/badge/Visit_site-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
       <br />
-      <p>Word-based gaming application built with React</p>
+      <p>Word-based gaming application built with React and Shadcn/Tailwind</p>
     </td>
   </tr>
 </table>
