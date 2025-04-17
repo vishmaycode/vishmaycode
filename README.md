@@ -9,8 +9,8 @@ When I'm not coding, you can find me exploring new technologies, traveling, or e
 Currently, I'm working as a Senior Software Developer in Goa - India.
 
 ## Projects
-- [![Sakshardham](https://img.shields.io/badge/-sakshardham-123c76?logo=react&logoColor=white)](https://sakshardham.org/)
-- [![Wordster](https://img.shields.io/badge/-wordster-1f2937?logo=react&logoColor=white)](https://github.com/vishmaycode/wordster)
+- [![Sakshardham](https://img.shields.io/badge/-sakshardham-123c76?logo=googlechrome&logoColor=white)](https://sakshardham.org/)
+- [![Wordster](https://img.shields.io/badge/-wordster-1f2937?logo=googlechrome&logoColor=white)](https://github.com/vishmaycode/wordster)
 
 ## Skills
 
