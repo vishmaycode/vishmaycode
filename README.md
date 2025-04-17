@@ -37,22 +37,22 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Sakshardham-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sakshardham"/>
+      <h3>Sakshardham</h3>
       <br />
       <a href="https://sakshardham.org/">
         <img src="https://img.shields.io/badge/View_Project-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
       </a>
       <br />
-      <p>Religious site built with modern web technologies</p>
+      <p>Official website of Sakshardham Foundation built with React, PHP and MySQL</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Wordster-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Wordster"/>
+      <h3>Wordster</h3>
       <br />
       <a href="https://github.com/vishmaycode/wordster">
         <img src="https://img.shields.io/badge/View_Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
       <br />
-      <p>Word-based gaming application</p>
+      <p>Word-based gaming application built with React</p>
     </td>
   </tr>
 </table>
