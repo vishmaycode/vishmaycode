@@ -17,7 +17,7 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vishmay">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/__vishmay__/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
