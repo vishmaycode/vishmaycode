@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 Hi there! I'm Vishmay, a passionate full-stack developer with expertise in modern web technologies and DevOps. I specialize in creating responsive, user-friendly applications that solve real-world problems.
 
@@ -8,7 +8,7 @@ When I'm not coding, you can find me exploring new technologies, traveling, or e
 
 Currently, I'm working as a Senior Software Developer in Goa - India.
 
-<h2 align="center">Connect with me</h2>h2>
+<h2 align="center">Connect with me</h2>
 <div align="center">
   <a href="mailto:vishmaycode@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
