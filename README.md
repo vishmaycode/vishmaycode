@@ -36,7 +36,7 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <h3>Sakshardham</h3>
       <br />
       <a href="https://sakshardham.org/">
@@ -45,10 +45,21 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
       <br />
       <p>Official website of Sakshardham Foundation built with React, PHP and MySQL</p>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>My Portfolio</h3>
+      <br />
+      <a href="https://vishmayk.netlify.app/">
+        <img src="https://img.shields.io/badge/Visit_site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+      </a>
+      <br />
+      <p>My Portfolio website built with react and tailwind</p>
+    </td>
     <td align="center" width="50%">
       <h3>Wordster</h3>
       <br />
-      <a href="https://wordster.netlify.app">
+      <a href="https://wordster.netlify.app/">
         <img src="https://img.shields.io/badge/View_Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
       <a href="https://github.com/vishmaycode/wordster">
