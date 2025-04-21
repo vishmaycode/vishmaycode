@@ -46,6 +46,8 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
       <p>Official website of Sakshardham Foundation built with React, PHP and MySQL</p>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center" width="50%">
       <h3>My Portfolio</h3>
