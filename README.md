@@ -79,87 +79,67 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
 <h2 align="center">Skills</h2>
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/-React-78934b?logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white" alt="SCSS" />
-        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/-Shadcn_UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Backend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/-Shell_Script-black?logo=gnu-bash&logoColor=white" alt="Shell Script" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Native</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Android_Studio-339933?logo=androidstudio&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white" alt="Ionic" />
-        <img src="https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>DevOps</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
-        <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/-Infinityfree-009688?logo=internetcomputer&logoColor=white" alt="Infinityfree" />
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
-        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/-CI/CD-FF7139?logo=githubactions&logoColor=white" alt="CI/CD" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>ML | AI | LLM</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/-OpenCV-007ACC?logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/-MCP-1A1A1A?logo=claude&logoColor=white" alt="MCP" />
-        <img src="https://img.shields.io/badge/-OpenAI_ChatBot-5C5543?logo=openai&logoColor=white" alt="OpenAI" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Other Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
-        <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white" alt="GIMP" />
-        <img src="https://img.shields.io/badge/-DaVinci_Resolve-1A1A1A?logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-        <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white" alt="Neovim" />
-        <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white" alt="Vim" />
-      </p>
-    </td>
-  </tr>
-</table>
+  <h3>I majorly work with</h3>
+  <div align="center">
+    <a href="">
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/-React-78934b?logo=react&logoColor=white" alt="React" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+    </a>
+  </div>
+
+  <h3>All the other things I have hands-on experience with</h3>
+  <div align="center">
+    <p>
+      <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white" alt="SCSS" />
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/-Shadcn_UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+      <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-Shell_Script-black?logo=gnu-bash&logoColor=white" alt="Shell Script" />
+      <img src="https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white" alt="Ionic" />
+      <img src="https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA" />
+      <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
+      <img src="https://img.shields.io/badge/-Infinityfree-009688?logo=internetcomputer&logoColor=white" alt="Infinityfree" />
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-CI/CD-FF7139?logo=githubactions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/-OpenCV-007ACC?logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/-MCP-1A1A1A?logo=claude&logoColor=white" alt="MCP" />
+      <img src="https://img.shields.io/badge/-OpenAI_ChatBot-5C5543?logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white" alt="GIMP" />
+      <img src="https://img.shields.io/badge/-DaVinci_Resolve-1A1A1A?logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+      <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white" alt="Neovim" />
+      <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white" alt="Vim" />
+    </p>
+  </div>
 
 </div>
