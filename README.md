@@ -13,7 +13,7 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
   <a href="mailto:vishmaycode@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://vishmayk.netlify.app/">
+  <a href="https://me.vishcodes.com/">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vishmay">
