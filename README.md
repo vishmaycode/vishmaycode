@@ -48,10 +48,10 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
     <td align="center" width="50%">
       <h3>Personal Chatbot</h3>
       <br />
-      <a href="https://vishmay-chatbot.streamlit.app/">
+      <a href="https://github.com/vishmaycode/personal-chatbot.git">
         <img src="https://img.shields.io/badge/View_Project-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
-      <a href="https://github.com/vishmaycode/personal-chatbot.git">
+      <a href="https://vishmay-chatbot.streamlit.app">
         <img src="https://img.shields.io/badge/Visit_site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Site"/>
       </a>
       <br />
