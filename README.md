@@ -55,10 +55,11 @@ Currently, I'm working as a Senior Software Developer in Goa - India.
         <img src="https://img.shields.io/badge/Visit_site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Site"/>
       </a>
       <br />
-      <p>Word-based gaming application built with React and Shadcn/Tailwind</p>
+      <p>Personal chatbot using streamlit and openrouter. integrated in my portfolio website</p>
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td align="center" width="50%">
