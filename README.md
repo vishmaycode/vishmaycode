@@ -100,18 +100,6 @@
       <p>Word-based game using <strong>React, Tailwind, TypeScript, Netlify</strong></p>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-    <h3>Chatbot</h3>
-      <a href="https://github.com/vishmaycode/personal-chatbot.git">
-        <img src="https://img.shields.io/badge/GitHub Repo-1f2937?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://vishmay-chatbot.streamlit.app">
-        <img src="https://img.shields.io/badge/Visit Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <p>Chatbot built with <strong>Python, Streamlit, OpenRouter</strong>, integrated into my portfolio</p>
-    </td>
-  </tr>
 </table>
 
 ---
