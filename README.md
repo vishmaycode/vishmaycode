@@ -60,11 +60,11 @@
 
 <h2 align="center">Checkout my portfolio</h2>
 
- <div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
     <a href="https://vishcodes.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Visit%20Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vishcodes" />
     </a>
- </div>
+</p>
 
 ---
 
