@@ -31,11 +31,11 @@
 </p>
 
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
 <br />
-[![Vishmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1" alt="vishmaycode" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1" alt="vishmaycode languages" />
 <br />
 
 <h2 align="center">Checkout my portfolio</h2>
