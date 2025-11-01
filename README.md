@@ -30,24 +30,29 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<br />
+<br />
+<br />
+<br />
 
 <h2 align="center">Checkout my portfolio</h2>
 
 <p align="center">
-    <a href="https://vishcodes.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Visit%20Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vishcodes" />
+    <a href="https://vishcodes.com/">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
 </p>
 
+<br />
+<br />
+<br />
+<br />
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:vishmaycode@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://vishcodes.com/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vishmay">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
