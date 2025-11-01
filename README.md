@@ -18,7 +18,27 @@
 - ⚙️ Experienced with CI/CD, containerization, and infrastructure management
 - ☕ When not coding, I enjoy tech blogs, exploring new tools, and traveling
 
----
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+
+<h2 align="center">Checkout my portfolio</h2>
+
+<p align="center">
+    <a href="https://vishcodes.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Visit%20Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vishcodes" />
+    </a>
+</p>
+
 
 <h2 align="center">Connect With Me</h2>
 
@@ -43,29 +63,6 @@
   </a>
 </p>
 
----
 
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
----
-
-<h2 align="center">Checkout my portfolio</h2>
-
-<p align="center">
-    <a href="https://vishcodes.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Visit%20Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vishcodes" />
-    </a>
-</p>
-
----
 
 <h4 align="center">Thanks for stopping by! Happy coding!</h4>
