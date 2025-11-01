@@ -18,23 +18,23 @@
 - ⚙️ Experienced with CI/CD, containerization, and infrastructure management
 - ☕ When not coding, I enjoy tech blogs, exploring new tools, and traveling
 
+<br />
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-  <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+  <img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+  <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img alt="PHP" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+  <img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 </p>
 
-
-<br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1&card_width=400" alt="vishmaycode languages" />
+<br />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
 <br />
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
 <br />
