@@ -58,48 +58,13 @@
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Checkout my portfolio</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Sakshardham</h3>
-      <a href="https://sakshardham.org/">
-        <img src="https://img.shields.io/badge/Visit Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <p>Official site for Sakshardham Foundation built with <strong>React, Tailwind, Firebase & Netlify</strong></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>SnapClip</h3>
-      <a href="https://chromewebstore.google.com/detail/snapclip/fnobgbeicjeeakpcccndbmofmhjdammn">
-        <img src="https://img.shields.io/badge/Chrome Extension-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <a href="https://snapclip.vishcodes.com">
-        <img src="https://img.shields.io/badge/Visit Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <p>A powerful clipboard manager. Copy, organize, and access your text snippets with powerful features like <strong>QR code generation, pinning, and smart sorting.</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>My Portfolio</h3>
-      <a href="https://vishcodes.com/">
-        <img src="https://img.shields.io/badge/Visit Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <p>Built with <strong>React, Tailwind, Shadcn, TypeScript, VPS Hosting</strong> to showcase my work</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>WordGame</h3>
-      <a href="https://github.com/vishmaycode/wordster">
-        <img src="https://img.shields.io/badge/GitHub Repo-1f2937?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://wordgame.vishcodes.com/">
-        <img src="https://img.shields.io/badge/Visit Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
-      <p>Word-based game using <strong>React, Tailwind, TypeScript, Netlify</strong></p>
-    </td>
-  </tr>
-</table>
+ <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://vishcodes.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Visit%20Site-123c76?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vishcodes" />
+    </a>
+ </div>
 
 ---
 
