@@ -46,7 +46,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
 <br />
 <br />
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&bg_color=0d1117&border_color=e4e2e2&color=90c4c1&title_color=2aa889&line=259076&point=99d1ce&grid=false&days=50" alt="vishmaycode graph"</p>
 <br />
 
 
