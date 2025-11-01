@@ -28,14 +28,22 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+  [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+  [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+  [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 </p>
+
 
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
 <br />
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1&card_width=400" alt="vishmaycode languages" />
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1" alt="vishmaycode languages" />
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
 <br />
 
 <h2 align="center">Checkout my portfolio</h2>
