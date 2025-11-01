@@ -20,9 +20,17 @@
 
 <br />
 
-<h2 align="center">Tech Stack</h2>
-
+<h2 align="center">Checkout my portfolio</h2>
 <p align="center">
+    <a href="https://vishcodes.com/">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+</p>
+<br />
+
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img alt="Firebase" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
   <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
   <img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -34,24 +42,15 @@
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1&card_width=400" alt="vishmaycode languages" />
 <br />
+<br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
+<br />
 <br />
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&theme=dracula" alt="vishmaycode graph"</p>
 <br />
 
-<h2 align="center">Checkout my portfolio</h2>
-
-<p align="center">
-    <a href="https://vishcodes.com/">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-</p>
-
-<br />
-<br />
 
 <h2 align="center">Connect With Me</h2>
-
 <p align="center">
   <a href="mailto:vishmaycode@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
