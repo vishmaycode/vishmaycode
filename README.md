@@ -40,7 +40,7 @@
 </p>
 
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1&card_width=400" alt="vishmaycode languages" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishmaycode&layout=compact&hide_title=1&card_width=467" alt="vishmaycode languages" />
 <br />
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham" alt="vishmaycode stats" />
