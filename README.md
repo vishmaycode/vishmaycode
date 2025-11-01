@@ -46,7 +46,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishmaycode&show_icons=true&theme=gotham&hide=issues,contribs&count_private=true&include_all_commits=true" alt="vishmaycode stats" />
 <br />
 <br />
-<p align="center"><img src="https://wakatime.com/share/@5fa971b3-0edb-4040-b166-ff1e9bd63f22/e69fc699-f99c-4d88-82b5-d7bd6956da7f.svg" alt="vishmaycode wakatime"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishcodes&theme=gotham&layout=compact" alt="vishmaycode wakatime"</p>
 <br />
 <br />
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vishmaycode&bg_color=0d1117&border_color=e4e2e2&color=90c4c1&title_color=2aa889&line=259076&point=99d1ce&grid=false&days=50" alt="vishmaycode graph"</p>
