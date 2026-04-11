@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💻 Senior Software Developer | 🌐 Cloud & DevOps | 🧠 Lifelong Learner
+  💻 Senior Software Developer | 🌐 Cloud & DevOps | 🖥️ Dedicated Homelabber | 🧠 Lifelong Learner
 </p>
 
 ---
@@ -15,32 +15,17 @@
 
 - 🔭 Currently working as a **Senior Software Developer** in **Goa, India**
 - 💡 Skilled in building full-stack applications, scaling systems, and deploying to cloud platforms
-- ⚙️ Experienced with CI/CD, containerization, and infrastructure management
-- ☕ When not coding, I enjoy tech blogs, exploring new tools, and traveling
+- ⚙️ Experienced with CI/CD, containerization.
+- 🖥️ I also find myself investing time in Homelabbing and working with hardware.
+- ☕ When not coding, I enjoy tech blogs, exploring new tools, and traveling.
 
 <br />
-
-<h2 align="center">Checkout my portfolio</h2>
-<p align="center">
-    <a href="https://vishcodes.com/">
-      <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-    </a>
-</p>
-<br />
-
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <img alt="Firebase" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
-  <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img alt="PHP" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-  <img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-</p>
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
+  <a href="https://vishcodes.com/">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="mailto:vishmaycode@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
